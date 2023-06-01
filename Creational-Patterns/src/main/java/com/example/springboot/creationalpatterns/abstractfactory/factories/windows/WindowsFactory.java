@@ -1,10 +1,10 @@
-package com.jmendoza.springboot.creationalpatterns.abstractfactory.factories.windows;
+package com.example.springboot.creationalpatterns.abstractfactory.factories.windows;
 
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.factories.GUIFactory;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Button;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Checkbox;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.windows.WindowsButton;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.windows.WindowsCheckbox;
+import com.example.springboot.creationalpatterns.abstractfactory.factories.GUIFactory;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Button;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Checkbox;
+import com.example.springboot.creationalpatterns.abstractfactory.components.windows.WindowsButton;
+import com.example.springboot.creationalpatterns.abstractfactory.components.windows.WindowsCheckbox;
 
 public class WindowsFactory implements GUIFactory {
     @Override

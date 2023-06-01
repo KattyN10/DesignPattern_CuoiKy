@@ -1,9 +1,9 @@
-package com.jmendoza.springboot.creationalpatterns.abstractfactory.service;
+package com.example.springboot.creationalpatterns.abstractfactory.service;
 
 import com.google.gson.JsonObject;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.factories.GUIFactory;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Button;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Checkbox;
+import com.example.springboot.creationalpatterns.abstractfactory.factories.GUIFactory;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Button;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Checkbox;
 
 /**
  * Factory users don't care which concrete factory they use since they work with

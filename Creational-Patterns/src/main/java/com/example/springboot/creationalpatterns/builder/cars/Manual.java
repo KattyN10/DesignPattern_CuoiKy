@@ -1,9 +1,9 @@
-package com.jmendoza.springboot.creationalpatterns.builder.cars;
+package com.example.springboot.creationalpatterns.builder.cars;
 
-import com.jmendoza.springboot.creationalpatterns.builder.components.Engine;
-import com.jmendoza.springboot.creationalpatterns.builder.components.GPSNavigator;
-import com.jmendoza.springboot.creationalpatterns.builder.components.Transmission;
-import com.jmendoza.springboot.creationalpatterns.builder.components.TripComputer;
+import com.example.springboot.creationalpatterns.builder.components.Engine;
+import com.example.springboot.creationalpatterns.builder.components.GPSNavigator;
+import com.example.springboot.creationalpatterns.builder.components.Transmission;
+import com.example.springboot.creationalpatterns.builder.components.TripComputer;
 
 public class Manual {
     private final Type type;

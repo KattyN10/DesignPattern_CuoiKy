@@ -1,6 +1,6 @@
-package com.jmendoza.springboot.creationalpatterns.simplefactory.shape.rectangle;
+package com.example.springboot.creationalpatterns.simplefactory.shape.rectangle;
 
-import com.jmendoza.springboot.creationalpatterns.simplefactory.shape.Shape;
+import com.example.springboot.creationalpatterns.simplefactory.shape.Shape;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 

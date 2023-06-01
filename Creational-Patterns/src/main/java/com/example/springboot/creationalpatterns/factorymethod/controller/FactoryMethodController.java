@@ -1,9 +1,9 @@
-package com.jmendoza.springboot.creationalpatterns.factorymethod.controller;
+package com.example.springboot.creationalpatterns.factorymethod.controller;
 
 import com.google.gson.JsonObject;
-import com.jmendoza.springboot.creationalpatterns.factorymethod.factory.Geometry;
-import com.jmendoza.springboot.creationalpatterns.factorymethod.factory.circle.CircleGeometry;
-import com.jmendoza.springboot.creationalpatterns.factorymethod.factory.polygon.RectangleGeometry;
+import com.example.springboot.creationalpatterns.factorymethod.factory.Geometry;
+import com.example.springboot.creationalpatterns.factorymethod.factory.circle.CircleGeometry;
+import com.example.springboot.creationalpatterns.factorymethod.factory.polygon.RectangleGeometry;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -8,8 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="structuralpatterns" />
-        <module name="creationalpatterns" />
         <module name="BehaviorPattern" />
+        <module name="creationalpatterns" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

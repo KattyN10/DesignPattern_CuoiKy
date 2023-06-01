@@ -1,11 +1,11 @@
-package com.jmendoza.springboot.creationalpatterns.builder.director;
+package com.example.springboot.creationalpatterns.builder.director;
 
-import com.jmendoza.springboot.creationalpatterns.builder.builders.Builder;
-import com.jmendoza.springboot.creationalpatterns.builder.cars.Type;
-import com.jmendoza.springboot.creationalpatterns.builder.components.Engine;
-import com.jmendoza.springboot.creationalpatterns.builder.components.GPSNavigator;
-import com.jmendoza.springboot.creationalpatterns.builder.components.Transmission;
-import com.jmendoza.springboot.creationalpatterns.builder.components.TripComputer;
+import com.example.springboot.creationalpatterns.builder.builders.Builder;
+import com.example.springboot.creationalpatterns.builder.cars.Type;
+import com.example.springboot.creationalpatterns.builder.components.Engine;
+import com.example.springboot.creationalpatterns.builder.components.GPSNavigator;
+import com.example.springboot.creationalpatterns.builder.components.Transmission;
+import com.example.springboot.creationalpatterns.builder.components.TripComputer;
 
 /**
  * Director defines the order of building steps. It works with a builder object

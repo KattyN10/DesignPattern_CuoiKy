@@ -1,6 +1,6 @@
-package com.jmendoza.springboot.creationalpatterns.abstractfactory.components.windows;
+package com.example.springboot.creationalpatterns.abstractfactory.components.windows;
 
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Checkbox;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Checkbox;
 
 public class WindowsCheckbox implements Checkbox {
     @Override

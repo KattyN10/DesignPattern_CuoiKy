@@ -1,6 +1,6 @@
-package com.jmendoza.springboot.creationalpatterns.abstractfactory.components.windows;
+package com.example.springboot.creationalpatterns.abstractfactory.components.windows;
 
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Button;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Button;
 
 public class WindowsButton implements Button {
     @Override

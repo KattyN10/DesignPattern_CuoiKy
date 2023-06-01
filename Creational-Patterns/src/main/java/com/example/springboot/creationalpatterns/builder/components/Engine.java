@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns.builder.components;
+package com.example.springboot.creationalpatterns.builder.components;
 
 public class Engine {
     private final double volume;

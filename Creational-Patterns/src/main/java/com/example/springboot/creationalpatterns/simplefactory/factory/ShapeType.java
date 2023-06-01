@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns.simplefactory.factory;
+package com.example.springboot.creationalpatterns.simplefactory.factory;
 
 public enum ShapeType {
     CIRCLE,

@@ -1,6 +1,6 @@
 package com.jmendoza.springboot.creationalpatterns.simplefactory;
 
-import com.jmendoza.springboot.creationalpatterns.CreationalPatternsApplication;
+import com.example.springboot.creationalpatterns.CreationalPatternsApplication;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.boot.test.context.SpringBootTest;

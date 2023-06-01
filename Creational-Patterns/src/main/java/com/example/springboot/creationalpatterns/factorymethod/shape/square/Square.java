@@ -1,6 +1,6 @@
-package com.jmendoza.springboot.creationalpatterns.factorymethod.shape.square;
+package com.example.springboot.creationalpatterns.factorymethod.shape.square;
 
-import com.jmendoza.springboot.creationalpatterns.factorymethod.shape.Shape;
+import com.example.springboot.creationalpatterns.factorymethod.shape.Shape;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j

@@ -1,6 +1,6 @@
-package com.jmendoza.springboot.creationalpatterns.abstractfactory.components.macos;
+package com.example.springboot.creationalpatterns.abstractfactory.components.macos;
 
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Checkbox;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Checkbox;
 
 public class MacOSCheckbox implements Checkbox {
     @Override

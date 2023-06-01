@@ -1,6 +1,6 @@
-package com.jmendoza.springboot.creationalpatterns.factorymethod.factory;
+package com.example.springboot.creationalpatterns.factorymethod.factory;
 
-import com.jmendoza.springboot.creationalpatterns.factorymethod.shape.Shape;
+import com.example.springboot.creationalpatterns.factorymethod.shape.Shape;
 
 /**
  * Base factory class. Note that "factory" is merely a role for the class. It

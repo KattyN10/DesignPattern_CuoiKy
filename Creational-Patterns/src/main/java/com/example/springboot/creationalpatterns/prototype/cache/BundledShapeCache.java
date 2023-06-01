@@ -1,8 +1,8 @@
-package com.jmendoza.springboot.creationalpatterns.prototype.cache;
+package com.example.springboot.creationalpatterns.prototype.cache;
 
-import com.jmendoza.springboot.creationalpatterns.prototype.shapes.Circle;
-import com.jmendoza.springboot.creationalpatterns.prototype.shapes.Rectangle;
-import com.jmendoza.springboot.creationalpatterns.prototype.shapes.Shape;
+import com.example.springboot.creationalpatterns.prototype.shapes.Circle;
+import com.example.springboot.creationalpatterns.prototype.shapes.Rectangle;
+import com.example.springboot.creationalpatterns.prototype.shapes.Shape;
 
 import java.util.HashMap;
 import java.util.Map;

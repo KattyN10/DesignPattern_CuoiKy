@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns.singleton;
+package com.example.springboot.creationalpatterns.singleton;
 
 public class SingletonPattern {
     private String value;

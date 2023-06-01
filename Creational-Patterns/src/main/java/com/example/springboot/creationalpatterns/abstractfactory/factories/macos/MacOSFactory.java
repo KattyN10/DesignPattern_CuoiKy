@@ -1,10 +1,10 @@
-package com.jmendoza.springboot.creationalpatterns.abstractfactory.factories.macos;
+package com.example.springboot.creationalpatterns.abstractfactory.factories.macos;
 
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.factories.GUIFactory;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Button;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Checkbox;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.macos.MacOSButton;
-import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.macos.MacOSCheckbox;
+import com.example.springboot.creationalpatterns.abstractfactory.factories.GUIFactory;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Button;
+import com.example.springboot.creationalpatterns.abstractfactory.components.Checkbox;
+import com.example.springboot.creationalpatterns.abstractfactory.components.macos.MacOSButton;
+import com.example.springboot.creationalpatterns.abstractfactory.components.macos.MacOSCheckbox;
 
 public class MacOSFactory implements GUIFactory {
     @Override

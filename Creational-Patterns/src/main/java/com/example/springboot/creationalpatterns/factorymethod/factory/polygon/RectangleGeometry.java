@@ -1,8 +1,8 @@
-package com.jmendoza.springboot.creationalpatterns.factorymethod.factory.polygon;
+package com.example.springboot.creationalpatterns.factorymethod.factory.polygon;
 
-import com.jmendoza.springboot.creationalpatterns.factorymethod.factory.Geometry;
-import com.jmendoza.springboot.creationalpatterns.factorymethod.shape.Shape;
-import com.jmendoza.springboot.creationalpatterns.factorymethod.shape.rectangle.Rectangle;
+import com.example.springboot.creationalpatterns.factorymethod.factory.Geometry;
+import com.example.springboot.creationalpatterns.factorymethod.shape.Shape;
+import com.example.springboot.creationalpatterns.factorymethod.shape.rectangle.Rectangle;
 
 public class RectangleGeometry extends Geometry {
 

@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns;
+package com.example.springboot.creationalpatterns;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

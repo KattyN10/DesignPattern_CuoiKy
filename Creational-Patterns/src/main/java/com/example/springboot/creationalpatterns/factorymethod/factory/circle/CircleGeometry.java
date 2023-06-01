@@ -1,8 +1,8 @@
-package com.jmendoza.springboot.creationalpatterns.factorymethod.factory.circle;
+package com.example.springboot.creationalpatterns.factorymethod.factory.circle;
 
-import com.jmendoza.springboot.creationalpatterns.factorymethod.factory.Geometry;
-import com.jmendoza.springboot.creationalpatterns.factorymethod.shape.Shape;
-import com.jmendoza.springboot.creationalpatterns.factorymethod.shape.circle.Circle;
+import com.example.springboot.creationalpatterns.factorymethod.factory.Geometry;
+import com.example.springboot.creationalpatterns.factorymethod.shape.Shape;
+import com.example.springboot.creationalpatterns.factorymethod.shape.circle.Circle;
 
 public class CircleGeometry extends Geometry {
 

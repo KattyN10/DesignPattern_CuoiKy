@@ -1,6 +1,6 @@
-package com.jmendoza.springboot.creationalpatterns.builder.components;
+package com.example.springboot.creationalpatterns.builder.components;
 
-import com.jmendoza.springboot.creationalpatterns.builder.cars.Car;
+import com.example.springboot.creationalpatterns.builder.cars.Car;
 
 public class TripComputer {
     private Car car;

@@ -1,7 +1,7 @@
-package com.jmendoza.springboot.creationalpatterns.prototype.controller;
+package com.example.springboot.creationalpatterns.prototype.controller;
 
-import com.jmendoza.springboot.creationalpatterns.prototype.cache.BundledShapeCache;
-import com.jmendoza.springboot.creationalpatterns.prototype.shapes.Shape;
+import com.example.springboot.creationalpatterns.prototype.cache.BundledShapeCache;
+import com.example.springboot.creationalpatterns.prototype.shapes.Shape;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

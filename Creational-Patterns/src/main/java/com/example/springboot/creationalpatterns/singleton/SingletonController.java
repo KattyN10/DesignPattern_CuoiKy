@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns.singleton;
+package com.example.springboot.creationalpatterns.singleton;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

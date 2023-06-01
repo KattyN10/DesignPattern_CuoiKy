@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns.builder.cars;
+package com.example.springboot.creationalpatterns.builder.cars;
 
 public enum Type {
     CITY_CAR,

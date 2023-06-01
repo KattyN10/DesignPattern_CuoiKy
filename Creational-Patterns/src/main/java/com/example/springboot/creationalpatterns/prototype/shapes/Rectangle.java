@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns.prototype.shapes;
+package com.example.springboot.creationalpatterns.prototype.shapes;
 
 public class Rectangle extends Shape {
     private int width;

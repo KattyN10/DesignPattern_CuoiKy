@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns.prototype.shapes;
+package com.example.springboot.creationalpatterns.prototype.shapes;
 
 import java.util.Objects;
 

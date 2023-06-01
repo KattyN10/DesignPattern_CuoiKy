@@ -1,11 +1,11 @@
-package com.jmendoza.springboot.creationalpatterns.builder.controller;
+package com.example.springboot.creationalpatterns.builder.controller;
 
 import com.google.gson.JsonObject;
-import com.jmendoza.springboot.creationalpatterns.builder.builders.CarBuilder;
-import com.jmendoza.springboot.creationalpatterns.builder.builders.CarManualBuilder;
-import com.jmendoza.springboot.creationalpatterns.builder.cars.Car;
-import com.jmendoza.springboot.creationalpatterns.builder.cars.Manual;
-import com.jmendoza.springboot.creationalpatterns.builder.director.Director;
+import com.example.springboot.creationalpatterns.builder.builders.CarBuilder;
+import com.example.springboot.creationalpatterns.builder.builders.CarManualBuilder;
+import com.example.springboot.creationalpatterns.builder.cars.Car;
+import com.example.springboot.creationalpatterns.builder.cars.Manual;
+import com.example.springboot.creationalpatterns.builder.director.Director;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

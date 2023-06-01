@@ -5,8 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/StructuralPattern/pom.xml" />
-        <option value="$PROJECT_DIR$/Creational-Patterns/pom.xml" />
         <option value="$PROJECT_DIR$/BehaviorPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/Creational-Patterns/pom.xml" />
       </list>
     </option>
     <option name="ignoredPathMasks">
