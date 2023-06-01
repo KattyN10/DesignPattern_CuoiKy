@@ -1,4 +1,4 @@
-package com.jmendoza.springboot.creationalpatterns.abstractfactory.components.macos;
+package com.example.abstractfactory.components.macos;
 
 import com.jmendoza.springboot.creationalpatterns.abstractfactory.components.Button;
 
